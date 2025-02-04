@@ -10,7 +10,8 @@ Este programa en C permite generar, almacenar y mostrar números primos utilizan
 
 > [!NOTE]
 > El programa trabaja con variables del tipo unsigned long int (32 bits), por lo cual el numero mas grande que se puede usar es el 4.294.967.295.
-> La carpeta `bin` contiene un archivo con el primer millon de numeros primos, y un ejecutable del programa. 
+>
+>  La carpeta `bin` contiene un archivo con el primer millon de numeros primos, y un ejecutable del programa. 
 
 Explicacion del algoritmo [Algoritmo de la división por tentativa](https://es.khanacademy.org/computing/computer-science/cryptography/comp-number-theory/a/trial-division).
 
