@@ -61,8 +61,5 @@ El programa almacena los números primos en un archivo binario llamado `PrimeNum
 ## Proximamente
 Dado que el programa limita al usuario a trabajar con 32 bits, en poco tiempo espero poder realizar un nuevo repositorio usando `gmp.h` para que el unico limitante sea la memoria a disposicion.
 
-## Autor
-Sebastián Vaccaro
-
 ## Licencia
-Este proyecto está bajo la licencia MIT.
+MIT License © 2025 Sebastián Vaccaro
